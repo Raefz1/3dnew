@@ -2,7 +2,7 @@
 	"URLs": [
 	{
 		"alias":"https://github.com/Raefz1/3dnew/tree/main",
-		"scene":"https://github.com/Raefz1/3dnew/tree/main/Scene/Production_1.3mx"
+		"scene":"../Scene/Production_1.3mx"
 	}
 	]
 }
