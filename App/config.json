@@ -1,8 +1,8 @@
 {
 	"URLs": [
 	{
-		"alias":"Production_1",
-		"scene":"../Scene/Production_1.3mx"
+		"alias":"https://github.com/Raefz1/3dnew/tree/main",
+		"scene":"https://github.com/Raefz1/3dnew/tree/main/Scene/Production_1.3mx"
 	}
 	]
 }
