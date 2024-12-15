@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModelMetadata version="1">
+	<!--Spatial Reference System-->
+	<SRS>COMPD_CS[&quot;IL05_2012Y-ILUM_2.0&quot;,PROJCS[&quot;IL05_2012Y&quot;,GEOGCS[&quot;GCS_ILG05Y&quot;,DATUM[&quot;D_ILG05_2012Y&quot;,SPHEROID[&quot;GRS_1980&quot;,6378137,298.257222101],TOWGS84[24.0024,17.1032,17.8444,-0.33009,-1.85269,1.66969,-5.4248]],PRIMEM[&quot;Greenwich&quot;,0],UNIT[&quot;Degree&quot;,0.017453292519943295]],PROJECTION[&quot;Transverse_Mercator&quot;],PARAMETER[&quot;scale_factor&quot;,1.0000067],PARAMETER[&quot;central_meridian&quot;,35.20451694444444],PARAMETER[&quot;latitude_of_origin&quot;,31.73439361111111],PARAMETER[&quot;false_easting&quot;,219529.584],PARAMETER[&quot;false_northing&quot;,626907.39],UNIT[&quot;Meter&quot;,1]],VERT_CS[&quot;ILUM2 geoid heigh&quot;,VERT_DATUM[&quot;ILUM2 geoid&quot;,2005,EXTENSION[&quot;PROJ4_GRIDS&quot;,&quot;ILUM_2.0.gtx&quot;]],UNIT[&quot;Meter&quot;,1],AXIS[&quot;Up&quot;,UP]]]</SRS>
+	<Texture>
+		<ColorSource>Visible</ColorSource>
+	</Texture>
+</ModelMetadata>
